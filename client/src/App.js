@@ -17,9 +17,10 @@ function App() {
         >
           Learn React
         </a>
+        <a href="/auth/google">Sign In With Google</a>
       </header>
     </div>
   );
 }
-
+//http://localhost:5000
 export default App;
